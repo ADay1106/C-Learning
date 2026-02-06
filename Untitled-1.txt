@@ -1,0 +1,9 @@
+// hello.cpp
+// Compile: g++ -std=c++17 -O2 -Wall -o hello hello.cpp
+// Run: ./hello
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
